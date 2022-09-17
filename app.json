@@ -11,7 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "repository": "https://github.com/rozari0/NezukoBot",
+    "repository": "https://github.com/Vdyct432/NezukoBot",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
